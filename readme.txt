@@ -3,3 +3,7 @@ fsjfsdlfjslfj
 nihao
 hahahha
 add
+ok
+no
+yes
+1
